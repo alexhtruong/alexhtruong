@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋
+CS Undergraduate at California Polytechnic University, San Luis Obispo.
+
+- 🔭 I'm currently working on [Marquee](https://github.com/soramicha/marquee), and [Tailor](https://github.com/alexhtruong/tailor).
+- ⚙️ I use `.ts`, `.tsx`, `.py` for my full stack projects.
+
+
+Contact me at **alexhtruong64@gmail.com**
 
 <!--
 **alexhtruong/alexhtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
