@@ -1,7 +1,7 @@
 ## 🌱
 CS Undergraduate at California Polytechnic University, San Luis Obispo.
 
-- 🔭 I'm currently working on [Buildboard](https://github.com/alexhtruong/buildboard) and [PolyLink](https://github.com/Castro19/LAEP-GPT).
+- 🔭 I'm currently working on [Khi](https://github.com/alexhtruong/khi) and [PolyLink](https://github.com/Castro19/LAEP-GPT).
 - ⚙️ I use `.ts`, `.tsx`, `.py` for my full stack projects.
 
 Contact me at **alexhtruong64@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/alex-hiep-truong/)
