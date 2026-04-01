@@ -1,7 +1,7 @@
 ## 🌱
 CS Undergraduate at California Polytechnic University, San Luis Obispo.
 
-- 🔭 I'm currently focusing on school.
+- 🔭 I'm currently working on [Licord](https://www.github.com/alexhtruong/licord).
 - ⚙️ I use `.ts`, `.tsx`, `.py` for my full stack projects.
 
 Contact me at **alexhtruong64@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/alex-hiep-truong/)
